@@ -1,0 +1,23 @@
+Object Oriented programming can be a bit confusing at times as there are concepts with very minute differences . The worst thing is that the more you read,the more you get confused as 100 people have 100 interpretation of same concepts.
+
+When you can verify something physically and explain it in simplest possible explanation , that concept can be said to be cleared.
+
+Coming back to question , Objects and Instances are almost similar and are often used interchangeably but with a small difference.
+
+Lets take a Story . Suppose You are God and You are given the task to make a new species called Males . So you start designing your species . All the males will have hands , legs , eyes , nose etc. These features/state can be called as attributes / properties . All males can run , walk , talk eat etc. These are the behaviours/functions of males and can be called as Methods.
+
+Once you have designed the properties and behaviours of your new species , Your class is ready . So basically Class is a design on paper ( a blueprint) that how the males would look and how would they behave.
+
+Males don’t exist in reality so far , they are just a concept.
+
+Now God started making Males in reality (Physical manifestation) . So he started looking at the blue print and created a male . When he created a male in reality , that male needs to have a space to live , so a space on Earth is reserved for that male to live.
+
+Here the act of making physical manifestation , the act of making a male is creating objects from the class . The act of giving the space to male is creating a memory for the object.
+
+Now there is a small problem encountered by god , he can create n numbers of males all identical and give them space on earth to live but how can you identify and differentiate them.
+
+What if the God wants one of those males to do something . How will he command ? How will he refer him ?
+
+Here comes the concept of Instances . He took one of the males and gave him a name Nobita . So now that object (male) has a reference called Nobita . The location given to him to live can be said as Nobita’s location.
+
+Object is a generic term , it is physically present but remains undiferrentiated . Instance is something that gives them a separate identity.
