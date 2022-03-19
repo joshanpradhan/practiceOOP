@@ -28,6 +28,7 @@ class Dog extends Animal implements IDog{
 }
 
 let dog = new Dog();
+
 console.log("Dog "+ dog.bark())
 console.log("Dog "+ dog.move())
 console.log("Dog "+ dog.walk())
