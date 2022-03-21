@@ -1,6 +1,9 @@
 "use strict";
 class BankUseCase {
 }
+//the reason we use encapsulation is to prevent unauthorized parties' direct access to them
+//like in this case we have used saving balance variable as private so that only properties inside the same class can have direct access to it
+//inorder to access it outside the class we have to implement the setter and getter method for it so that we can add logic to it while setting private properties 
 class BankMember extends BankUseCase {
     constructor(savingBalance) {
         super();
