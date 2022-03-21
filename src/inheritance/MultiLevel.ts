@@ -22,3 +22,6 @@ let classC=new ClassC();
 classC.fullName();
 classC.mobileNo();
 classC.address();
+
+
+
